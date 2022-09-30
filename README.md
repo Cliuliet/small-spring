@@ -91,7 +91,7 @@ PDF 下载：[https://download.csdn.net/download/Yao__Shun__Yu/21009038](https:/
 
 ## :pencil: 章节目录
 
-- [] [`难度【★☆☆☆☆】第 01 章：开篇介绍，我要带你撸 Spring 啦！`](https://mp.weixin.qq.com/s/g7YdIe_FSrk-WE8nQRO3TA) 
+- [x] [`难度【★☆☆☆☆】第 01 章：开篇介绍，我要带你撸 Spring 啦！`](https://mp.weixin.qq.com/s/g7YdIe_FSrk-WE8nQRO3TA) 
 - [x] [`难度【★☆☆☆☆】第 02 章：小试牛刀，实现一个简单的Bean容器`](https://mp.weixin.qq.com/s/fiWX6abSCiUKHAUa-HKg4A)
 - [x] [`难度【★☆☆☆☆】第 03 章：初显身手，运用设计模式，实现 Bean 的定义、注册、获取`](https://mp.weixin.qq.com/s/CgvQzm8B-CvQvXdxONC-lA)
 - [x] [`难度【★★☆☆☆】第 04 章：崭露头角，基于Cglib实现含构造函数的类实例化策略`](https://mp.weixin.qq.com/s/olrwapkSTQMyIGpR10ZDzA)
